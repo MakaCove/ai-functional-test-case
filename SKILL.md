@@ -1,5 +1,5 @@
 ---
-name: func-testcases-from-prototype-and-prd
+name: ai-functional-test-case
 description: 根据原型图（截图/设计稿）与需求文档（PRD）自动生成功能测试用例（Markdown + Excel），包含功能点用例与跨模块业务链路（E2E）用例，支持导出 XMind 脑图。当用户提供原型截图、PRD/需求文档、用户故事、验收标准，或要求"根据原型图生成功能测试用例""根据需求文档生成测试用例"时使用。
 ---
 
